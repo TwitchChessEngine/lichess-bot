@@ -30,3 +30,5 @@ OPENING BOOKS:
 
 ### Acknowledgements
 Credits to [ShailChoksi](https://github.com/ShailChoksi/lichess-bot)'s lichess-bot 
+
+**Simple [Lichess Bot](https://lichess.org/@/DrChessBot)**
