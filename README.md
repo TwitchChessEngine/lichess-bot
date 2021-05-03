@@ -1,4 +1,4 @@
-# Manager is [TwitchChessEngine](https://github.com/TwitchChessEngine) :D
+# Manager is [OIVAS7572](https://github.com/OIVAS7572)
 
 [![Python](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Python.yml)
 [![Docker](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml/badge.svg)](https://github.com/OIVAS7572/lichess-bot/actions/workflows/Docker.yml)
@@ -31,4 +31,3 @@ OPENING BOOKS:
 ### Acknowledgements
 Credits to [ShailChoksi](https://github.com/ShailChoksi/lichess-bot)'s lichess-bot 
 
-**Simple [Lichess Bot](https://lichess.org/@/TwitchChessEngine)**
